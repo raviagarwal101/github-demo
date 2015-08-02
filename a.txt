@@ -1,2 +1,3 @@
-Verison 1 of a.txt
+Verison 2 of a.txt
 - some text
+- some more text
