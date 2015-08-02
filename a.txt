@@ -1,0 +1,2 @@
+Verison 1 of a.txt
+- some text
