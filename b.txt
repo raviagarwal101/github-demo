@@ -1,3 +1,4 @@
-Version 1 of new file b.txt
+Version 2 of file b.txt
 - bbb
+- bbbbbbbb
 - aaaaaaaa
