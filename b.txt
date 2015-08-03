@@ -1,2 +1,3 @@
 Version 1 of new file b.txt
 - bbb
+- aaaaaaaa
