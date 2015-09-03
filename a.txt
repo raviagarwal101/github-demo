@@ -1,3 +1,2 @@
-Verison 2 of a.txt
-- some text
-- some more text
+Testing rebase pull request
+- simple change to master
