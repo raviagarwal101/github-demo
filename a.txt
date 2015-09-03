@@ -1,3 +1,4 @@
 Testing rebase pull request
 - simple change to master
 - adding some more to master to invoke merge conflict
+- adding code in master to invoke conflict

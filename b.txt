@@ -1,4 +1,2 @@
-Version 2 of file b.txt
-- bbb
-- bbbbbbbb
-- aaaaaaaa
+Testing PR rebase
+- adding initial code
